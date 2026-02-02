@@ -1,0 +1,236 @@
+[
+  {
+    "state": [
+      "artificial",
+      "intelligence"
+    ],
+    "next": [
+      "is"
+    ]
+  },
+  {
+    "state": [
+      "intelligence",
+      "is"
+    ],
+    "next": [
+      "changing"
+    ]
+  },
+  {
+    "state": [
+      "is",
+      "changing"
+    ],
+    "next": [
+      "the"
+    ]
+  },
+  {
+    "state": [
+      "changing",
+      "the"
+    ],
+    "next": [
+      "world"
+    ]
+  },
+  {
+    "state": [
+      "the",
+      "world"
+    ],
+    "next": [
+      "machine"
+    ]
+  },
+  {
+    "state": [
+      "world",
+      "machine"
+    ],
+    "next": [
+      "learning"
+    ]
+  },
+  {
+    "state": [
+      "machine",
+      "learning"
+    ],
+    "next": [
+      "learns"
+    ]
+  },
+  {
+    "state": [
+      "learning",
+      "learns"
+    ],
+    "next": [
+      "patterns"
+    ]
+  },
+  {
+    "state": [
+      "learns",
+      "patterns"
+    ],
+    "next": [
+      "from"
+    ]
+  },
+  {
+    "state": [
+      "patterns",
+      "from"
+    ],
+    "next": [
+      "data"
+    ]
+  },
+  {
+    "state": [
+      "from",
+      "data"
+    ],
+    "next": [
+      "deep"
+    ]
+  },
+  {
+    "state": [
+      "data",
+      "deep"
+    ],
+    "next": [
+      "learning"
+    ]
+  },
+  {
+    "state": [
+      "deep",
+      "learning"
+    ],
+    "next": [
+      "uses"
+    ]
+  },
+  {
+    "state": [
+      "learning",
+      "uses"
+    ],
+    "next": [
+      "neural"
+    ]
+  },
+  {
+    "state": [
+      "uses",
+      "neural"
+    ],
+    "next": [
+      "networks"
+    ]
+  },
+  {
+    "state": [
+      "neural",
+      "networks"
+    ],
+    "next": [
+      "data"
+    ]
+  },
+  {
+    "state": [
+      "networks",
+      "data"
+    ],
+    "next": [
+      "science"
+    ]
+  },
+  {
+    "state": [
+      "data",
+      "science"
+    ],
+    "next": [
+      "combines"
+    ]
+  },
+  {
+    "state": [
+      "science",
+      "combines"
+    ],
+    "next": [
+      "statistics"
+    ]
+  },
+  {
+    "state": [
+      "combines",
+      "statistics"
+    ],
+    "next": [
+      "and"
+    ]
+  },
+  {
+    "state": [
+      "statistics",
+      "and"
+    ],
+    "next": [
+      "programming"
+    ]
+  },
+  {
+    "state": [
+      "and",
+      "programming"
+    ],
+    "next": [
+      "learning"
+    ]
+  },
+  {
+    "state": [
+      "programming",
+      "learning"
+    ],
+    "next": [
+      "systems"
+    ]
+  },
+  {
+    "state": [
+      "learning",
+      "systems"
+    ],
+    "next": [
+      "improve"
+    ]
+  },
+  {
+    "state": [
+      "systems",
+      "improve"
+    ],
+    "next": [
+      "with"
+    ]
+  },
+  {
+    "state": [
+      "improve",
+      "with"
+    ],
+    "next": [
+      "experience"
+    ]
+  }
+]
